@@ -18,7 +18,7 @@ This simulation provides a secure gateway for users to manage their bank account
 * **Crash-Proof Logic:** Robust `try-catch` blocks to handle non-numeric inputs and logic errors.
 * **Interactive Menu:** A persistent loop-based interface for a seamless user session.
 
----
+---      ----
 
 ## 🛠️ System Architecture
 The project is built on two primary classes:
